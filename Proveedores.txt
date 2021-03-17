@@ -1,0 +1,5 @@
+<Proveedor>
+<pNomProveedor>Bryan Sanchez Moya</pNomProveedor>
+<pFirma>121111156</pFirma>
+<pMontoCobro>1210</pMontoCobro>
+</Proveedor>

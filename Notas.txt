@@ -1,0 +1,6 @@
+<nota>
+<pNombre>Manuel Moya</pNombre>
+<pDetalle>Financiero</pDetalle>
+<pMonto>2300</pMonto>
+<pId>0102</pId>
+</nota>

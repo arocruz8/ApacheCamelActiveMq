@@ -1,0 +1,7 @@
+<factura>
+<pNombre>Ariel Rodriguez</pNombre>
+<pId>0203</pId>
+<pCorreoElectronico>arocruz8@gmail.com</pCorreoElectronico>;
+<pMonto>10000</pMonto>
+<pComercio>Rostipollos</pComercio>
+</factura>
